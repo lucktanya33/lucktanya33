@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tanya</h1>
-<h3 align="center">A programmer newbie from Taiwan</h3>
+<h3 align="center">A Software Engineer from Taiwan</h3>
 
-- 🔭 I’m currently working on [Stock-Meow](https://github.com/lucktanya33/project-stock)
+- 🌱 I’m currently working on [Simple Portfolip](https://github.com/lucktanya33/simple-portfolio)
 
-- 🌱 I’m currently learning **React.JS**
-
-- 📫 How to reach me **lucktanya33@gmail.com**
+- 📫 How to reach me **tanyalin.develop@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
